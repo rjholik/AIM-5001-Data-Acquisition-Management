@@ -1,0 +1,27 @@
+[{
+        "Title": "A Brief History of Time",
+        "Author(s)": ["Stephen Hawking"],
+        "Publisher": "Bantam",
+        "Last Publication Date": "2011-05-04",
+        "Pages": 242
+    },
+    {
+        "Title": "'Surely You're Joking, Mr. Feynman!': Adventures of a Curious",
+        "Author(s)": [
+            "Richard P. Feynman",
+            "Ralph Leighton",
+            "Edward Hutchings",
+            "Albert R. Hibbs"
+        ],
+        "Publisher": "W. W. Norton & Compan",
+        "Last Publication Date": "2010-06-28",
+        "Pages": 352
+    },
+    {
+        "Title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "Author(s)": ["Brian Greene"],
+        "Publisher": "W. W. Norton & Compan",
+        "Last Publication Date": "2009-01-08",
+        "Pages": 447
+    }
+]
