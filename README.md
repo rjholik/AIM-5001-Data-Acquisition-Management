@@ -1,1 +1,1 @@
-These assignments and the projects were developed in the course AIM-5001 Data Acquisition Management at the Katz School of Science and Health.
+This is my repository for the AIM-5001 Data Acquisition and Management course, offered by the Katz School of Science and Health. In this course, I learned how to acquire, clean, store, and manage data from various sources using a range of tools and techniques. Through a combination of lectures, assignments, and projects, I gained hands-on experience in working with various databases, data analyses, and many Python packages.
